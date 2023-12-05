@@ -2,6 +2,24 @@
 
 Welcome to our EdTech Platform, a dynamic web application designed to provide an immersive and interactive learning experience.
 
+## Screenshots
+
+<br/>
+
+![Screenshot (190)](https://github.com/Bandinikhil/edtech/assets/105233916/5e4b3a92-d05f-4113-8465-529c3164b9a4)
+
+<br/>
+
+![Screenshot (192)](https://github.com/Bandinikhil/edtech/assets/105233916/0f518979-cc25-4c7d-8b88-50feb082433d)
+
+<br/>
+
+![Screenshot (193)](https://github.com/Bandinikhil/edtech/assets/105233916/16ae3894-b887-41fa-a974-e7432fcdd220)
+
+<br/>
+
+
+
 ## Features
 
 - **User-Friendly Interface:** Intuitive design for seamless navigation and an enjoyable user experience.
