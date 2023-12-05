@@ -1,0 +1,45 @@
+.container {
+    max-width: 50%;
+    margin: 0 auto;
+    padding: 20px;
+  }
+
+  @media only screen and (max-width: 600px) {
+    .container {
+        max-width: 100%;
+        margin: 0 auto;
+        padding: 20px;
+      }
+  }
+  
+  .contact-form {
+    background-color: #f1f1f1;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+  
+  .contact-inputs input,
+  .contact-inputs textarea {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    outline: none;
+  }
+  
+  .contact-inputs input[type="submit"] {
+    background-color: #17bf9e;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+  }
+  
+  .contact-inputs input[type="submit"]:hover {
+    background-color: #128f7e;
+  }
+  

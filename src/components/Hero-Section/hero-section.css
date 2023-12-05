@@ -1,0 +1,62 @@
+.hero__content h2 {
+  font-weight: 600;
+  line-height: 55px;
+}
+
+.hero__content {
+  padding-top: 20px;
+}
+@media screen and (max-width: 480px) {
+  .hero__content{
+    padding-top: 0px;
+  }
+}
+
+.search input {
+  border: none;
+  outline: none;
+  padding: 7px 10%;
+}
+
+.search {
+  width: 60%;
+  border: 1px solid #17bf9d44;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-radius: 50px;
+  margin-top: 10px;
+  margin-bottom: 20px;
+}
+
+.hero_img img{
+  /* border: 1px solid transparent; */
+  border-radius: 180px 50px 120px 50px;
+}
+
+h1 > .size{
+  font-size: 6rem;
+  font-weight: 600;
+  
+}
+
+
+h1 > .text{
+  color: #ffb209;
+  
+}
+
+.para{
+  font-size: 2rem;
+  
+}
+
+
+
+@media only screen and (max-width: 600px) {
+  h1 > .size{
+    font-size: 3rem;
+    font-weight: 600;
+    
+  }
+}
